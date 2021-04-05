@@ -37,7 +37,7 @@ __For each task__, namely instance segmentation (Part B) and human pose estimati
 
 The length of the report should not exceed 2 pages.
 
-*Credits: This lab is adapted from the lab created by Georgia Gkioxari for 2020 AMMI CV course.*
+*Credits: This lab is adapted from the lab created by Georgia Gkioxari for the 2020 AMMI CV course.*
 
 [d2]: https://github.com/facebookresearch/detectron2
 [d2tut]: https://colab.research.google.com/drive/1wgg7IT8NrlxDeAmhYRjyHasg3jvwCnUd#scrollTo=QHnVupBBn9eR

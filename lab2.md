@@ -64,7 +64,7 @@ We want you to summarize your findings with a short report. We ask the following
 
 The length of the report should not exceed 2 pages.
 
-*Credits: This lab is adapted from the lab created by Georgia Gkioxari for 2020 AMMI CV course.*
+*Credits: This lab is adapted from the lab created by Georgia Gkioxari for the 2020 AMMI CV course.*
 
 [d2]: https://github.com/facebookresearch/detectron2
 [d2tut]: https://colab.research.google.com/drive/1C2Z_T_G9V-dTPJvplSRGoMcWc7MkOqfK#scrollTo=QHnVupBBn9eR&line=1&uniqifier=1
