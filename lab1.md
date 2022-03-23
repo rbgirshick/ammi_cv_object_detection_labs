@@ -7,7 +7,7 @@ We will be going through the Detectron2 [tutorials][d2tut] which offer a step-by
 Throughout this lab we will use colab notebooks to run detectron2 models. This is essential as the models will run much faster on the colab GPU compared to your personal laptops (which may only have CPUs). 
 
 ## Lab report submission
-Please upload your short report in the form of `lab1_firstname_lastname.pdf` by Sunday, April 18, at midnight (Senegal time). A dropbox upload link will be shared via Campuswire.
+Please upload your short report in the form of `lab1_firstname_lastname.pdf` by Sunday, April 3, at midnight (in your local time). A dropbox upload link will be shared via Campuswire.
 
 ## Part A: Install Detectron2 
 
